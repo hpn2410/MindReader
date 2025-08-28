@@ -235,8 +235,8 @@
     "takeDamageHeartContainers": {
       "__id__": 233
     },
-    "reDealCardTurn": 14,
-    "suddentDeadthTurn": 20,
+    "reDealCardTurn": 6,
+    "suddentDeadthTurn": 6,
     "_id": "4dOvd0X4tEz45De0RCK+UC"
   },
   {
@@ -501,7 +501,7 @@
     "_priority": 0,
     "_fov": 45,
     "_fovAxis": 0,
-    "_orthoHeight": 449.8621745788668,
+    "_orthoHeight": 407.7168632893824,
     "_near": 0,
     "_far": 2000,
     "_color": {
@@ -13307,7 +13307,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": 24.8,
+      "y": 24.799999999999997,
       "z": 0
     },
     "_lrot": {
@@ -13345,8 +13345,8 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 115.38755922186064,
-      "height": 50.4
+      "width": 115.38372603660653,
+      "height": 50.400000000000006
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -13378,7 +13378,7 @@
     "_string": "Turn xx",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 35.7109375,
+    "_actualFontSize": 39.40234375,
     "_fontSize": 35,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
@@ -13439,7 +13439,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": -25.599999999999998,
+      "y": -25.60000000000001,
       "z": 0
     },
     "_lrot": {
@@ -13477,8 +13477,8 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 245.5301253828484,
-      "height": 50.4
+      "width": 245.54402866932688,
+      "height": 50.400000000000006
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -13510,7 +13510,7 @@
     "_string": "30 SECONDS REMAINING",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 20.40625,
+    "_actualFontSize": 22.515625,
     "_fontSize": 20,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
